@@ -1,0 +1,56 @@
+
+body {
+    background-color:#EEE;
+}
+#header {
+    color:rgba(255, 0, 0, 0.658);
+    text-align: center;
+    margin: auto;
+    font-family: cursive, monospace, sans-serif;
+    background-color:#58F5FA;
+}
+#container {
+    background-color: white;
+    width: 1200px;
+    margin-left: auto;
+    margin-right:auto;
+}
+#food-content {
+    color:rgb(250, 15, 250);
+    margin-left: 10px;
+    position: fixed;
+}
+#couscous-ing {
+    background-color: green;
+    width: 525px;
+    float: left;
+}
+#couscous-ins {
+    background-color: red;
+    width: 525px;
+   padding-left: 525px;
+   padding-bottom: 100px;
+}
+#dez-3asba {
+    margin-left: 150px;
+    padding: 10px;
+}
+h3 {
+    color:rgb(255, 255, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+}
+strong {
+    color:blue;
+}
+.steps {
+    color:rgb(250, 113, 63);
+}
+ol {
+    color: black;
+}
+#image {
+    text-align: center;
+    
+}

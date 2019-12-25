@@ -10,7 +10,7 @@ body {
     background-color:#58F5FA;
 }
 #container {
-    background-color: #564946;
+    background-color: #0D1F22;
     width: 1200px;
     margin-left: auto;
     margin-right:auto;
@@ -21,6 +21,7 @@ body {
     position: fixed;
 }
 #couscous-ing {
+    color: #FA713F;
     font-family: "Comic Sans MS", cursive, sans-serif;
     width: 50%;
     float: left;
@@ -31,7 +32,7 @@ body {
     
 }
 #couscous-ins {
-    
+    font-family: Lucida Console, Helvetica, sans-serif;
     width: 50%;
     height: 380px;
     overflow-y: auto;
@@ -60,16 +61,29 @@ strong {
     color:rgba(0, 225, 255, 0.993);
 }
 .steps {
-    color:rgb(250, 113, 63);
+    color:#FA713F;
 }
 ol {
     color: black;
 }
 #image {
-    text-align: center;
+    
+    margin-right: 0%;
+    margin-left: 390px;
+    
     
 }
 
 table, th, td {
     border: 1px solid #A61C3C;
   }
+a {
+    font-size: 20px;
+    color: #EDD9A3;
+}
+#time-serve {
+    color: #8EB897;
+    margin-right: 0%;
+    margin-left: 390px;
+
+}
